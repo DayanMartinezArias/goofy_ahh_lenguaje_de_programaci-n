@@ -1,0 +1,12 @@
+print "Hello, world!";
+print 4 + 4;
+x = 4 + 2;
+print 56;
+print "Hello " + "World!";
+print x;
+x = 2;
+print x;
+y = 3 - 3;
+print y;
+x = y;
+print x;
